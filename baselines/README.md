@@ -3,6 +3,6 @@ To compare the results of the proposed method with baselines we considered PCMCI
 
 - Baseline_Models_Applied_On_SEA_ICE_Data.ipynb: All baseline methods are applied to Arctic Sea Ice data in this notebook.
 - Baseline_Models_Applied_On_TKE_Data.ipynb: All baseline methods are applied to the Turbulence Kinetic Energy (TKE) dataset in this notebook.
-- Baseline_Models_Applied_On_Synthetic_Dataset_1.ipynb: All baseline methods are applied to the synthetic Dataset-1 with seasonal-like features in this notebook.
+- Baseline_Models_Applied_On_Synthetic_Dataset_1.ipynb: All baseline methods are applied to the synthetic Dataset-1 in this notebook.
 - Baseline_Models_Applied_On_Synthetic_Dataset_2.ipynb: In this notebook, we applied all baseline methods to the synthetic Dataset-2.    
  
